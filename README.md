@@ -34,6 +34,9 @@ Traduce tutti i testi del gioco: dialoghi, menu, oggetti, missioni, bestiario, t
 <td><img src="docs/images/mappa.jpg" alt="Mappa in italiano"><br><sub>Mappa e missioni</sub></td>
 <td><img src="docs/images/stato.jpg" alt="Schermata di stato in italiano"><br><sub>Stato ed equipaggiamento</sub></td>
 </tr>
+<tr>
+<td colspan="2"><img src="docs/images/esplorazione.jpg" alt="Esplorazione: comandi Macella, Raccogli, Scava in italiano"><br><sub>Esplorazione: comandi e oggetti raccolti</sub></td>
+</tr>
 </table>
 
 ## ⚠️ Da sapere prima di installare
