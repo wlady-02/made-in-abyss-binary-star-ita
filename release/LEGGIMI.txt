@@ -1,0 +1,26 @@
+MADE IN ABYSS: BINARY STAR FALLING INTO DARKNESS - TRADUZIONE ITALIANA (AMATORIALE)
+Versione {VERSION} - per la versione Steam (PC), build 10136809
+https://github.com/wlady-02/made-in-abyss-binary-star-ita
+
+AVVISO
+- Traduzione amatoriale, gratuita, non ufficiale e non affiliata con gli sviluppatori/editori.
+- Realizzata con un'intelligenza artificiale (Claude di Anthropic, modello Claude Opus 5.5),
+  coordinata e testata da wlady-02. Non e' ancora stata rivista per intero da un essere umano:
+  segnala gli errori su GitHub (sezione Issues).
+
+INSTALLAZIONE
+1. In Steam: tasto destro sul gioco -> Gestisci -> Sfoglia i file locali.
+2. Apri la cartella  MadeInAbyss-BSFD\Content\Paks
+3. Copia li' il file  MadeInAbyss-BSFD-ITA_99_P.pak  (e' un file in piu', non sostituisce nulla).
+4. Gioca con la lingua del testo impostata su INGLESE: la patch sostituisce l'inglese con l'italiano.
+
+Funziona su Windows, Linux (Proton) e Steam Deck (dalla modalita' desktop).
+Le voci restano originali (giapponese o inglese).
+
+DISINSTALLAZIONE
+Cancella MadeInAbyss-BSFD-ITA_99_P.pak dalla cartella Paks. I salvataggi non vengono toccati.
+
+----------------------------------------------------------------------------------------------
+ENGLISH: Unofficial, AI-assisted Italian fan translation (made with Claude by Anthropic).
+Install: copy MadeInAbyss-BSFD-ITA_99_P.pak into MadeInAbyss-BSFD/Content/Paks and play with the
+text language set to English. Uninstall: delete the file. Not affiliated with the rights holders.

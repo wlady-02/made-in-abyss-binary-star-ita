@@ -1,0 +1,47 @@
+Questo repository contiene due tipi di contenuto, con licenze diverse.
+This repository contains two kinds of content, under different terms.
+
+1) Strumenti / Tools (cartella tools/)
+--------------------------------------
+
+MIT License
+
+Copyright (c) 2026 wlady-02
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+2) Traduzione / Translation (cartella translation/ e patch .pak nelle release)
+------------------------------------------------------------------------------
+
+La traduzione italiana è un lavoro amatoriale, gratuito e non commerciale.
+Puoi usarla, condividerla e modificarla liberamente, purché:
+  - non sia venduta né usata a scopo di lucro;
+  - venga citato questo progetto.
+
+Il gioco originale, i suoi testi, personaggi, nomi e marchi appartengono ai
+rispettivi titolari dei diritti. Questo progetto non è affiliato né approvato
+da loro e non distribuisce file del gioco. Su richiesta dei titolari dei diritti
+il progetto verrà rimosso.
+
+The Italian translation is a free, non-commercial fan work. You may use, share
+and modify it as long as it is not sold or used for profit and this project is
+credited. The original game, its text, characters, names and trademarks belong
+to their respective owners. This project is not affiliated with or endorsed by
+them and does not distribute game files. It will be taken down on request of
+the rights holders.

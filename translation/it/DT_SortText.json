@@ -1,0 +1,15 @@
+{
+ "SortText_000_Text": "Quantità",
+ "SortText_001_Text": "Peso",
+ "SortText_002_Text": "Grado",
+ "SortText_003_Text": "Tipo di arma",
+ "SortText_004_Text": "Tipo di abito",
+ "SortText_005_Text": "Slot accessori",
+ "SortText_006_Text": "Attacco",
+ "SortText_007_Text": "Difesa",
+ "SortText_008_Text": "Recupero Salute",
+ "SortText_009_Text": "Recupero Sazietà",
+ "SortText_010_Text": "Recupero stamina",
+ "SortText_100_Text": "Crescente",
+ "SortText_101_Text": "Decrescente"
+}

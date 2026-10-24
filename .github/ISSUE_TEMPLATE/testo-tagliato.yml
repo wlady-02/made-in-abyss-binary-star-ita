@@ -1,0 +1,23 @@
+name: Testo tagliato o fuori dal riquadro / Text overflow
+description: Il testo esce dal riquadro, è tagliato o si sovrappone ad altro
+labels: ["impaginazione"]
+body:
+  - type: input
+    id: dove
+    attributes:
+      label: Dove compare
+      placeholder: "Es. descrizione dell'oggetto Fischietto Rosso, menu Oggetti"
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Trascina qui l'immagine (molto utile per questo tipo di problema)
+    validations:
+      required: true
+  - type: input
+    id: risoluzione
+    attributes:
+      label: Risoluzione e piattaforma
+      placeholder: "Es. 1920x1080, Windows / Steam Deck"

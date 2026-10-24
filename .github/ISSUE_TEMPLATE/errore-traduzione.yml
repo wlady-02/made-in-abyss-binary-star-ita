@@ -1,0 +1,28 @@
+name: Errore di traduzione / Translation error
+description: Frase sbagliata, poco naturale, non tradotta o termine incoerente
+labels: ["traduzione"]
+body:
+  - type: input
+    id: dove
+    attributes:
+      label: Dove compare
+      description: Scena, menu, nome dell'oggetto o della missione, modalità (Hello Abyss / Deep in Abyss)
+      placeholder: "Es. Hello Abyss, dialogo con Ozen al Campo dei Cercatori"
+    validations:
+      required: true
+  - type: textarea
+    id: attuale
+    attributes:
+      label: Testo attuale
+      description: Copia o trascrivi il testo come appare in gioco
+    validations:
+      required: true
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Correzione proposta (facoltativa)
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot (facoltativo)
+      description: Trascina qui l'immagine

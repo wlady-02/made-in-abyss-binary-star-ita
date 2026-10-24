@@ -1,0 +1,8 @@
+# File originali del gioco e derivati: NON vanno pubblicati
+original/
+build/
+translation/work/
+*.pak
+*.locres
+*.ufont
+__pycache__/
