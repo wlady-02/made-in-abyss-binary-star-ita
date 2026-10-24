@@ -13,7 +13,7 @@ Traduce tutti i testi del gioco: dialoghi, menu, oggetti, missioni, bestiario, t
 | **Piattaforme** | Windows, Linux (Proton), Steam Deck |
 | **Voci** | Restano originali (giapponese o inglese): la patch traduce i testi e i sottotitoli |
 
-**[⬇️ Scarica l'ultima versione](../../releases/latest)**
+**[⬇️ Scarica l'ultima versione](../../releases/latest)** · disponibile anche su **[Nexus Mods](https://www.nexusmods.com/madeinabyssbinarystarfallingintodarkness/mods/26)** · [discussione su Steam](https://steamcommunity.com/app/1324340/discussions/0/573804739774403109/)
 
 ---
 
@@ -29,7 +29,7 @@ Traduce tutti i testi del gioco: dialoghi, menu, oggetti, missioni, bestiario, t
 
 ## Installazione
 
-1. Scarica `MadeInAbyss-BSFD-ITA-<versione>.zip` dalla pagina **[Releases](../../releases/latest)** ed estrailo.
+1. Scarica `MadeInAbyss-BSFD-ITA-<versione>.zip` dalla pagina **[Releases](../../releases/latest)** (oppure da [Nexus Mods](https://www.nexusmods.com/madeinabyssbinarystarfallingintodarkness/mods/26)) ed estrailo.
 2. Apri la cartella del gioco: in Steam, **tasto destro sul gioco → Gestisci → Sfoglia i file locali**.
 3. Entra in `MadeInAbyss-BSFD` → `Content` → `Paks`.
 4. Copia lì il file **`MadeInAbyss-BSFD-ITA_99_P.pak`**, accanto ai file `.pak` del gioco (non sostituisce nulla).
@@ -145,7 +145,7 @@ Voices stay in Japanese or English.
 
 ### Install
 
-1. Download the zip from **[Releases](../../releases/latest)**.
+1. Download the zip from **[Releases](../../releases/latest)** or [Nexus Mods](https://www.nexusmods.com/madeinabyssbinarystarfallingintodarkness/mods/26).
 2. In Steam: *right-click the game → Manage → Browse local files*, then open `MadeInAbyss-BSFD/Content/Paks`.
 3. Copy `MadeInAbyss-BSFD-ITA_99_P.pak` there. It is an extra file and replaces nothing.
 4. Play with the text language set to **English**. The patch replaces the English text with Italian.
