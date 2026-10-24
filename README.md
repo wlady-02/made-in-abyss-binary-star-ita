@@ -1,3 +1,5 @@
+![Made in Abyss: Binary Star Falling into Darkness - Traduzione italiana](docs/images/header.jpg)
+
 # Made in Abyss: Binary Star Falling into Darkness: Traduzione italiana (amatoriale)
 
 **Patch di traduzione italiana non ufficiale** per *Made in Abyss: Binary Star Falling into Darkness* (PC / Steam).
@@ -16,6 +18,23 @@ Traduce tutti i testi del gioco: dialoghi, menu, oggetti, missioni, bestiario, t
 **[⬇️ Scarica l'ultima versione](../../releases/latest)** · disponibile anche su **[Nexus Mods](https://www.nexusmods.com/madeinabyssbinarystarfallingintodarkness/mods/26)** · [discussione su Steam](https://steamcommunity.com/app/1324340/discussions/0/573804739774403109/)
 
 ---
+
+## Screenshot
+
+<table>
+<tr>
+<td><img src="docs/images/titolo.jpg" alt="Schermata del titolo in italiano"><br><sub>Schermata del titolo</sub></td>
+<td><img src="docs/images/dialogo.jpg" alt="Dialogo di Riko in italiano"><br><sub>Dialoghi della storia</sub></td>
+</tr>
+<tr>
+<td><img src="docs/images/oggetti.jpg" alt="Menu oggetti in italiano"><br><sub>Menu oggetti e descrizioni</sub></td>
+<td><img src="docs/images/creazione.jpg" alt="Menu creazione in italiano"><br><sub>Creazione e ricette</sub></td>
+</tr>
+<tr>
+<td><img src="docs/images/mappa.jpg" alt="Mappa in italiano"><br><sub>Mappa e missioni</sub></td>
+<td><img src="docs/images/stato.jpg" alt="Schermata di stato in italiano"><br><sub>Stato ed equipaggiamento</sub></td>
+</tr>
+</table>
 
 ## ⚠️ Da sapere prima di installare
 
@@ -142,6 +161,7 @@ Voices stay in Japanese or English.
   shared glossary, the original Japanese script as reference, and automated checks for placeholders and line length.
   Coordinated and tested by [wlady-02](https://github.com/wlady-02). It has **not** yet been fully proofread by a human.
 - **Game version:** Steam build 10136809. Works on Windows, Linux (Proton) and Steam Deck.
+- **Screenshots:** see the [gallery above](#screenshot).
 
 ### Install
 
