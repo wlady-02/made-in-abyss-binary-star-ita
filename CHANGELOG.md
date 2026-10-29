@@ -1,5 +1,20 @@
 # Registro delle versioni
 
+## v1.0.0: 2026-10-29
+
+Prima versione stabile, dopo le prove in gioco (prologo e campagna principale di *Hello Abyss*).
+
+- "Irredimibile" (il tormentone 度し難い di Reg, Ozen e Lyza) diventa **"Assurdo"** in tutte le 31 frasi,
+  nel livello di difficoltà ("Assurda") e nelle missioni "Amici assurdi".
+- Etichette degli strati accorciate in "1° Strato", "2° Strato"…: prima uscivano dal riquadro nella mappa e nei
+  punti di spostamento.
+- Nomi degli oggetti accorciati a massimo 25 caratteri: prima i più lunghi si sovrapponevano al peso nel riquadro
+  della descrizione. Le varianti sono ora abbreviate in "(Preg.)" e "(Spec.)".
+- "Campo dei Cercatori (int.)" → "Campo Cercatori (int.)", che usciva dal campo del salvataggio.
+- "Foresteria" → "Sala degli ospiti".
+- "Raggiungi il punto “!”!" → "Raggiungi il punto segnato con “!”."
+- Nuovo controllo automatico sulla lunghezza dei nomi degli oggetti.
+
 ## v0.9.0-beta: 2026-10-24
 
 Prima versione pubblica.

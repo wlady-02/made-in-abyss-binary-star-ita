@@ -101,6 +101,10 @@ def limit_for(lim, e):
     g = 'MIA' if e['ns'].startswith('MIA') else e['ns']
     width, maxl = lim[g]
     src_lines = e['src'].split(NL)
+    if e['ns'] == 'DT_ItemInfomation' and e['key'].endswith('_Name'):
+        # nel riquadro descrizione il nome condivide la riga con il peso ("350g"):
+        # oltre 25 caratteri i due testi si sovrappongono (verificato in gioco)
+        return 25, 1
     if len(src_lines) == 1 and not e['ns'].startswith('MIA'):
         # etichette/nomi su una riga: niente a capo, max +40% di lunghezza
         return max(len(e['src']) * 14 // 10 + 4, 12), 1

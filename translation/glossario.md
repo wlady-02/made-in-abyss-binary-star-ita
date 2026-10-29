@@ -74,6 +74,7 @@ Il file è condiviso da tutti i traduttori. Se un termine cambia, va cambiato qu
 | Curse-Repelling Vessel (呪い除けの籠) | Culla Antimaledizione |
 | Thousand-Men Wedge | Cuneo dei Mille Uomini |
 | Hollow / Narehate | Narehate |
+| Irredeemable / 度し難い (tormentone di Reg, Ozen, Lyza; difficoltà) | Assurdo (accordato: assurda, assurdamente); difficoltà "Assurda" |
 | Beoluska | Beoluska |
 | Uncle Habo | Zio Habo |
 | Laffi's Shop | Negozio di Laffi |

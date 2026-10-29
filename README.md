@@ -10,7 +10,7 @@ Traduce tutti i testi del gioco: dialoghi, menu, oggetti, missioni, bestiario, t
 
 | | |
 |---|---|
-| **Stato** | Beta: 7487/7487 stringhe tradotte, revisione in corso |
+| **Stato** | Versione 1.0.0, stabile: 7487/7487 stringhe tradotte, provata in gioco |
 | **Versione del gioco** | Steam, build 10136809 (ottobre 2026) |
 | **Piattaforme** | Windows, Linux (Proton), Steam Deck |
 | **Voci** | Restano originali (giapponese o inglese): la patch traduce i testi e i sottotitoli |
@@ -45,9 +45,10 @@ Traduce tutti i testi del gioco: dialoghi, menu, oggetti, missioni, bestiario, t
 - **È stata realizzata con un'intelligenza artificiale**: [Claude](https://www.anthropic.com/claude) di Anthropic
   (modello Claude Opus 5.5), con un glossario comune, il testo giapponese originale come riferimento e controlli
   automatici su formato e lunghezza delle righe. Il progetto è coordinato e testato da [wlady-02](https://github.com/wlady-02).
-- **Non è ancora stata rivista per intero da un essere umano.** Menu e prologo sono stati verificati in gioco, il resto
-  no: aspettati qualche frase poco naturale, un termine incoerente o un testo che sfora dal riquadro.
-  **Le segnalazioni sono benvenute**: vedi [Segnalare un errore](#segnalare-un-errore).
+- **È stata provata in gioco**: il prologo e la campagna principale si giocano dall'inizio senza problemi, e i
+  difetti trovati giocando (testi fuori dai riquadri, nomi troppo lunghi) sono stati corretti. Non tutte le
+  7487 frasi sono state lette a schermo, quindi qualche frase poco naturale può ancora capitare:
+  **le segnalazioni sono benvenute**, vedi [Segnalare un errore](#segnalare-un-errore).
 
 ## Installazione
 
@@ -159,10 +160,12 @@ rimosso, apri una issue: verrà rimosso.
 for PC / Steam.** It translates all in-game text into Italian: dialogue, menus, items, quests, bestiary and tutorials.
 Voices stay in Japanese or English.
 
-- **Status:** beta. All 7,487 strings are translated, and human review is ongoing.
+- **Status:** version 1.0.0, stable. All 7,487 strings are translated and the patch has been played in game
+  (prologue and main campaign) without issues; layout problems found while playing have been fixed.
 - **Made with AI:** translated by [Claude](https://www.anthropic.com/claude) (Anthropic, Claude Opus 5.5), using a
   shared glossary, the original Japanese script as reference, and automated checks for placeholders and line length.
-  Coordinated and tested by [wlady-02](https://github.com/wlady-02). It has **not** yet been fully proofread by a human.
+  Coordinated and tested by [wlady-02](https://github.com/wlady-02). Not every line has been read on screen yet, so
+  reports are welcome.
 - **Game version:** Steam build 10136809. Works on Windows, Linux (Proton) and Steam Deck.
 - **Screenshots:** see the [gallery above](#screenshot).
 

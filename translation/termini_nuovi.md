@@ -1,5 +1,7 @@
 # Termini scelti durante la traduzione
 
+> Nota (v1.0.0): "irredimibile" è stato sostituito ovunque da "assurdo" (vedi glossario).
+
 Note dei traduttori, divise per lotto (formato `Inglese -> Italiano`). Il riferimento ufficiale resta [glossario.md](glossario.md).
 
 ## DT_FishInfomation

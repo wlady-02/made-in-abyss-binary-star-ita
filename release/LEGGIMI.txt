@@ -5,8 +5,8 @@ https://github.com/wlady-02/made-in-abyss-binary-star-ita
 AVVISO
 - Traduzione amatoriale, gratuita, non ufficiale e non affiliata con gli sviluppatori/editori.
 - Realizzata con un'intelligenza artificiale (Claude di Anthropic, modello Claude Opus 5.5),
-  coordinata e testata da wlady-02. Non e' ancora stata rivista per intero da un essere umano:
-  segnala gli errori su GitHub (sezione Issues).
+  coordinata e testata in gioco da wlady-02 (prologo e campagna principale).
+  Se trovi una frase strana o un testo tagliato, segnalalo su GitHub (sezione Issues) o su Nexus.
 
 INSTALLAZIONE
 1. In Steam: tasto destro sul gioco -> Gestisci -> Sfoglia i file locali.
